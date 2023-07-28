@@ -41,10 +41,13 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 <br>
 
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Pebhashi-Tharushika&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pebhashi-Tharushika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pebhashi-Tharushika&show_icons=true&theme=dark)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pebhashi-Tharushika&theme=dark&hide_border=false)
 
+<br><br>
+
+[![](https://visitcount.itsvg.in/api?id=Pebhashi-Tharushika&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
