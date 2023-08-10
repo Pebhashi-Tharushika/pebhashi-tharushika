@@ -1,10 +1,10 @@
-# About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+# About Me
 
 ### <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="28px"> Hey there, Welcome to my GitHub profile 
 
 <br>
 
-I'm currently pursuing front-end and back-end software technologies involing software applications development projects as an **Trainee Software Engineer at Institute of Software Engineering - IJSE** . I'm a tech enthusiast 💻 😃 passionate about learning and working with new technologies. <br/><br/>
+I'm currently pursuing front-end and back-end software technologies involing software applications development projects as an **Trainee Software Engineer at Institute of Software Engineering - IJSE** . I'm a tech enthusiast with passionate about learning and working with new technologies. <br/><br/>
 
 I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
 
