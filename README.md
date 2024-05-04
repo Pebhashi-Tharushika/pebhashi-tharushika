@@ -4,7 +4,7 @@
 
 <br>
 
-I'm currently pursuing front-end and back-end software technologies involing software applications development projects as an **Trainee Software Engineer at Institute of Software Engineering - IJSE** . I'm a tech enthusiast with passionate about learning and working with new technologies. <br/><br/>
+I'm currently working as a Lecturer and Associate Software Engineer at Institute of Software Engineering - IJSE, where I engage in both front-end and back-end software technologies, contributing to software applications development projects. As a tech enthusiast, I'm deeply passionate about learning and working with new technologies. I'm committed to refining my skills and staying updated with industry trends. <br/><br/>
 
 I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
 
