@@ -46,8 +46,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 ### 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pebhashi-Tharushika&show_icons=true&theme=dark)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pebhashi-Tharushika&theme=dark&hide_border=false)
+
 
 <br><br>
 
