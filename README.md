@@ -65,11 +65,39 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></code>
 
+<!-- <code><img height="30" alt="spring-boot" src="https://custom-icon-badges.demolab.com/badge/spring--graphql-555555.svg?logo=spring-graphql"></code> -->
+      
+
 <br>
 
 ### 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+<a href="https://git.io/streak-stats">
+<img alt="Pebhashi-Tharushika's streak" src="https://streak-stats.demolab.com/?user=Pebhashi-Tharushika&theme=dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Pebhashi-Tharushika&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&icon_color=F8D866" height="192px"/> 
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&layout=compact&theme=dark&hide_border=true&icon_color=F8D866" height="192px"/>
+</a> 
+-->
+
+
+
+<!-- 
+<br>
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pebhashi-Tharushika&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 
 
 <br><br>
