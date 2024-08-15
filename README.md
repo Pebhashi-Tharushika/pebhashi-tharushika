@@ -1,16 +1,18 @@
 # About Me
 
-### <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" height="28px"> Hey there, Welcome to my GitHub profile 
+### 👋  Hey there, Welcome to my GitHub profile 
 
 <br>
 
-I'm currently working as a Lecturer and Associate Software Engineer at Institute of Software Engineering - IJSE, where I engage in both front-end and back-end software technologies, contributing to software applications development projects. As a tech enthusiast, I'm deeply passionate about learning and working with new technologies. I'm committed to refining my skills and staying updated with industry trends. <br/><br/>
+I'm currently working as a Lecturer and Associate Software Engineer at the Institute of Software Engineering (IJSE). With a strong foundation in both front-end and back-end development, I am actively involved in software development projects where I constantly have the opportunity to learn and contribute to the success of the team. 
+
+I am always working on polishing my skills and expanding my expertise, eager to stay up-to-date with industry trends. I'm passionate about exploring new technologies and leveraging them to build positive impactful software. I find immense pleasure in sharing knowledge and experience, inspiring the next generation of developers. As a lecturer, I'm committed to effectively communicating complex technical concepts in a clear and concise manner and training to become skilled software professionals.
 
 I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you! <br><br>
 
-### 📬 Find me at
+### 🔍 Reach out to me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pebhashi-tharushika/)](https://www.linkedin.com/in/pebhashi-tharushika/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/pebhashitharush1?hr_r=1)](https://www.hackerrank.com/pebhashitharush1?hr_r=1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pebhashitharushika@gmail.com)](mailto:pebhashitharushika@gmail.com)
@@ -27,7 +29,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 <br>
 
-### ⚙️ Some Tool and Tech I use
+### 🛠️ Languages & Technologies and tools
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
