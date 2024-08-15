@@ -2,8 +2,6 @@
 
 ### 👋  Hey there, Welcome to my GitHub profile 
 
-<br>
-
 I'm currently working as a Lecturer and Associate Software Engineer at the Institute of Software Engineering (IJSE). With a strong foundation in both front-end and back-end development, I am actively involved in software development projects where I constantly have the opportunity to learn and contribute to the success of the team. 
 
 I am always working on polishing my skills and expanding my expertise, eager to stay up-to-date with industry trends. I'm passionate about exploring new technologies and leveraging them to build positive impactful software. I find immense pleasure in sharing knowledge and experience, inspiring the next generation of developers. As a lecturer, I'm committed to effectively communicating complex technical concepts in a clear and concise manner and training to become skilled software professionals.
