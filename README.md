@@ -28,42 +28,64 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <br>
 
 ### 🛠️ Languages & Technologies and tools
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
-<code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-<code><img height="30" src="https://spring.io/img/projects/spring-boot.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-icon.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="assets/tech-icon/java.svg"></code>
+<code><img height="30" src="assets/tech-icon/python.svg"></code>
+<code><img height="30" src="assets/tech-icon/html-5.svg"></code>
+<code><img height="30" src="assets/tech-icon/css-3.svg"></code>
+<code><img height="30" src="assets/tech-icon/sass.svg"></code>
+<code><img height="30" src="assets/tech-icon/javascript.svg"></code>
+<code><img height="30" src="assets/tech-icon/typescript.svg"></code>
+<code><img height="30" src="assets/tech-icon/bootstrap.png"></code>
+<code><img height="30" src="assets/tech-icon/jquery.svg"></code>
+<code><img height="30" src="assets/tech-icon/query-ui.png"></code>
+<code><img height="30" src="assets/tech-icon/git.svg"></code>
+<code><img height="30" src="assets/tech-icon/github.svg"></code>
+<code><img height="30" width="30" src="assets/tech-icon/mysql.svg"></code>
+<code><img height="30" src="assets/tech-icon/mongodb.svg"></code>
+<code><img height="30" src="assets/tech-icon/datagrip.svg"></code>
+<code><img height="30" src="assets/tech-icon/sceneBuilder.png"></code>
+<code><img height="30" src="assets/tech-icon/jasper-report.png"></code>
+<code><img height="30" src="assets/tech-icon/cisco-packet-tracer.png"></code>
+<code><img height="30" src="assets/tech-icon/nodejs.svg"></code>
+<code><img height="30" src="assets/tech-icon/expressjs.svg"></code>
+<code><img height="30" width="30" src="assets/tech-icon/npm.svg"></code>
+<code><img height="30" src="assets/tech-icon/pnpm.svg"></code>
+<code><img height="30" src="assets/tech-icon/apache-ant.svg"></code>
+<code><img height="30" src="assets/tech-icon/maven.svg"></code>
+<code><img height="30" src="assets/tech-icon/gradle.svg"></code>
+<code><img height="30" src="assets/tech-icon/xml.svg"></code>
+<code><img height="30" src="assets/tech-icon/json.svg"></code>
+<code><img height="30" src="assets/tech-icon/yaml.svg"></code>
+<code><img height="30" src="assets/tech-icon/lombok.png"></code>
+<code><img height="30" src="assets/tech-icon/emmet.svg"></code>
+<code><img height="30" src="assets/tech-icon/nodemon.png"></code>
+<code><img height="30" src="assets/tech-icon/parceljs.png"></code>
+<code><img height="30" src="assets/tech-icon/postman.svg"></code>
+<code><img height="30" src="assets/tech-icon/jakarta-ee.svg"></code>
+<code><img height="30" src="assets/tech-icon/spring.svg"></code>
+<code><img height="30" src="assets/tech-icon/spring-boot.svg"></code>
+<code><img height="30" src="assets/tech-icon/model-mapper.png"></code>
+<code><img height="30" src="assets/tech-icon/junit.svg"></code>
+<code><img height="30" src="assets/tech-icon/swagger.svg"></code>
+<code><img height="30" src="assets/tech-icon/jira.svg"></code>
+<code><img height="30" src="assets/tech-icon/bitbucket.svg"></code>
+<code><img height="30" src="assets/tech-icon/tomcat.svg"></code>
+<code><img height="30" src="assets/tech-icon/glassfish-icon.svg"></code>
+<code><img height="30" src="assets/tech-icon/hibernate.svg"></code>
+<code><img height="30" src="assets/tech-icon/angular.svg"></code>
+<code><img height="30" src="assets/tech-icon/angularmaterial.svg"></code>
+<code><img height="30" src="assets/tech-icon/reactjs.svg"></code>
+<code><img height="30" src="assets/tech-icon/materialize.svg"></code>
+<code><img height="30" src="assets/tech-icon/jwt.svg"></code>
+<code><img height="30" src="assets/tech-icon/firebase.svg"></code>
+<code><img height="30" src="assets/tech-icon/googlecloud.svg"></code>
+<code><img height="30" src="assets/tech-icon/docker.svg"></code>
+
+<!-- <code><img height="30" src="assets/tech-icon/rxjs.svg"></code> -->
+<!-- <code><img height="30" src="assets/tech-icon/reduxjs.svg"></code> -->
+<!-- <code><img height="30" src="assets/tech-icon/reactrouter.svg"></code> -->
+<!-- <code><img height="30" src="assets/tech-icon/webpack.svg"></code> -->
+<!-- <code><img height="30" src="assets/tech-icon/vuejs.svg"></code> -->
 
 <!-- <code><img height="30" alt="spring-boot" src="https://custom-icon-badges.demolab.com/badge/spring--graphql-555555.svg?logo=spring-graphql"></code> -->
       
