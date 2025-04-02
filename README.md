@@ -99,7 +99,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebhashi-Tharushika&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://git.io/streak-stats">
