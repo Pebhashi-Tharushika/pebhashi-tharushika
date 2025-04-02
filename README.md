@@ -40,6 +40,8 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="SASS" alt="SASS" height="30" src="assets/tech-icon/sass.svg"></code>
 <code><img title="JavaScript" alt="JavaScript" height="30" src="assets/tech-icon/javascript.svg"></code>
 <code><img title="TypeScript" alt="TypeScript" height="30" src="assets/tech-icon/typescript.svg"></code>
+<code><img title="python" alt="python" height="30" src="assets/tech-icon/python.svg"></code> 
+<code><img title="php" alt="php" height="30" src="assets/tech-icon/php.svg"></code>
 <code><img title="Bootstrap" alt="Bootstrap" height="30" src="assets/tech-icon/bootstrap.png"></code>
 <code><img title="jQuery" alt="jQuery" height="30" src="assets/tech-icon/jquery.svg"></code>
 <code><img title="jQuery UI" alt="jQuery UI" height="30" src="assets/tech-icon/jquery-ui.png"></code>
@@ -85,7 +87,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="Firebase" alt="Firebase" height="30" src="assets/tech-icon/firebase.svg"></code>
 <code><img title="GCP" alt="GCP" height="30" src="assets/tech-icon/googlecloud.svg"></code>
 <code><img title="Docker" alt="Docker" height="30" src="assets/tech-icon/docker.svg"></code>
-<!-- <code><img height="30" src="assets/tech-icon/python.svg"></code> -->
+
 <!-- <code><img height="30" src="assets/tech-icon/rxjs.svg"></code> -->
 <!-- <code><img height="30" src="assets/tech-icon/reduxjs.svg"></code> -->
 <!-- <code><img height="30" src="assets/tech-icon/reactrouter.svg"></code> -->
