@@ -5,11 +5,19 @@
 
 ## 👋  Hey there, Welcome to my GitHub profile 
 
-I'm currently working as a Lecturer and Associate Software Engineer at the Institute of Software Engineering (IJSE). With a strong foundation in both front-end and back-end development, I am actively involved in software development projects where I constantly have the opportunity to learn and contribute to the success of the team. 
+I'm a passionate full-stack developer with hands-on experience in enterprise-level software development. I'm currently seeking full-time opportunities where I can contribute, grow, and collaborate on impactful projects.
 
-I am always working on polishing my skills and expanding my expertise, eager to stay up-to-date with industry trends. I'm passionate about exploring new technologies and leveraging them to build positive impactful software. I find immense pleasure in sharing knowledge and experience, inspiring the next generation of developers. As a lecturer, I'm committed to effectively communicating complex technical concepts in a clear and concise manner and training to become skilled software professionals.
+Graduate of the University of Moratuwa, Sri Lanka.  
+Former Lecturer & Associate Software Engineer at the Institute of Software Engineering (IJSE).
 
-I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
+Interests:
+- New technologies  
+- Real-world problem solving  
+- Knowledge sharing  
+
+I’m always sharpening my skills and staying current with industry trends to build meaningful software solutions.
+
+Open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!                                                                                        
 <br>
