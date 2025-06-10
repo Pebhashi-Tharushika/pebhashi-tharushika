@@ -5,19 +5,20 @@
 
 ## 👋  Hey there, Welcome to my GitHub profile 
 
-I'm a passionate full-stack developer with hands-on experience in enterprise-level software development. I'm currently seeking full-time opportunities where I can contribute, grow, and collaborate on impactful projects.
+I’m a passionate full-stack developer with hands-on experience in enterprise-level software development.
 
-Graduate of the University of Moratuwa, Sri Lanka.  
-Former Lecturer & Associate Software Engineer at the Institute of Software Engineering (IJSE).
+🎓 Graduate of B.Sc (Hons) Engineering, University of Moratuwa, Sri Lanka.
 
-Interests:
-- New technologies  
-- Real-world problem solving  
-- Knowledge sharing  
+💼 Former Lecturer & Associate Software Engineer at the Institute of Software Engineering (IJSE).
 
-I’m always sharpening my skills and staying current with industry trends to build meaningful software solutions.
+Interested in:
+- Exploring and working with new technologies 
+- Solving real-world problems through software  
+- Sharing knowledge with the developer community 
 
-Open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
+I’m always sharpening my skills and staying up-to-date with the latest industry trends to build impactful software solutions.
+
+🤝 Open to connecting with fellow developers, discussing exciting projects and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn!
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!                                                                                        
 <br>
