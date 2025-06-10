@@ -119,7 +119,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Pebhashi-Tharushika&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&icon_color=F8D866" height="192px"/> 
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pebhashi-Tharushika&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&icon_color=F8D866" height="192px"/> 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -141,5 +141,9 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 <br><br>
 
-[![](https://visitcount.itsvg.in/api?id=Pebhashi-Tharushika&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Pebhashi-Tharushika&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Pebhashi-Tharushika)
 
+![Visitor Count](https://profile-counter.glitch.me/Pebhashi-Tharushika/count.svg)
+
+[![Visits Badge](https://badges.pufler.dev/visits/Pebhashi-Tharushika/badge-it)](https://badges.pufler.dev)
