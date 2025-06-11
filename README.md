@@ -142,8 +142,3 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <br><br>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=Pebhashi-Tharushika&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
-![Profile Views](https://komarev.com/ghpvc/?username=Pebhashi-Tharushika)
-
-![Visitor Count](https://profile-counter.glitch.me/Pebhashi-Tharushika/count.svg)
-
-[![Visits Badge](https://badges.pufler.dev/visits/Pebhashi-Tharushika/badge-it)](https://badges.pufler.dev)
