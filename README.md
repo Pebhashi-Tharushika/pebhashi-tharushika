@@ -93,6 +93,8 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="Angular Material" alt="Angular Material" height="30" src="assets/tech-icon/angularmaterial.svg"></code>
 <code><img title="ReactJS" alt="ReactJS" height="30" src="assets/tech-icon/reactjs.svg"></code>
 <code><img title="Materialize" alt="Materialize" height="30" src="assets/tech-icon/materialize.svg"></code>
+<code><img title="Redis" alt="Redis" height="30" src="assets/tech-icon/redis.svg"></code>
+<code><img title="RabbitMQ" alt="RabbitMQ" height="30" src="assets/tech-icon/rabbitmq.svg"></code>
 <code><img title="JWT" alt="JWT" height="30" src="assets/tech-icon/jwt.svg"></code>
 <code><img title="Firebase" alt="Firebase" height="30" src="assets/tech-icon/firebase.svg"></code>
 <code><img title="GCP" alt="GCP" height="30" src="assets/tech-icon/googlecloud.svg"></code>
