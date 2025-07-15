@@ -71,8 +71,6 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="JSON" alt="JSON" height="30" src="assets/tech-icon/json.svg"></code>
 <code><img title="YAML" alt="YAML" height="30" src="assets/tech-icon/yaml.svg"></code>
 <code><img title="Lombok" alt="Lombok" height="30" src="assets/tech-icon/lombok.png"></code>
-<code><img title="Emmet" alt="Emmet" height="30" src="assets/tech-icon/emmet.svg"></code>
-<code><img title="Nodemon" alt="Nodemon" height="30" src="assets/tech-icon/nodemon.png"></code>
 <code><img title="Jakarta EE" alt="Jakarta EE" height="30" width="30" src="assets/tech-icon/jakartaEE.png"></code>
 <code><img title="Tomcat" alt="Tomcat" height="30" src="assets/tech-icon/tomcat.svg"></code>
 <code><img title="GlassFish" alt="GlassFish" height="30" src="assets/tech-icon/glassfish-icon.svg"></code>
@@ -93,13 +91,15 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="Redis" alt="Redis" height="30" src="assets/tech-icon/redis.svg"></code>
 <code><img title="RabbitMQ" alt="RabbitMQ" height="30" src="assets/tech-icon/rabbitmq.svg"></code>
 <code><img title="JWT" alt="JWT" height="30" src="assets/tech-icon/jwt.svg"></code>
+<code><img title="Clerk" alt="Clerk" height="30" src="assets/tech-icon/clerk.svg"></code>
 <code><img title="Firebase" alt="Firebase" height="30" src="assets/tech-icon/firebase.svg"></code>
 <code><img title="GCP" alt="GCP" height="30" src="assets/tech-icon/googlecloud.svg"></code>
 <code><img title="Supabase" height="30" src="assets/tech-icon/supabase.svg"></code>
 <code><img title="Render" height="30" src="assets/tech-icon/render.svg"></code>
 <code><img title="Docker" alt="Docker" height="30" src="assets/tech-icon/docker.svg"></code>
 
-
+<!-- <code><img title="Emmet" alt="Emmet" height="30" src="assets/tech-icon/emmet.svg"></code> -->
+<!-- <code><img title="Nodemon" alt="Nodemon" height="30" src="assets/tech-icon/nodemon.png"></code> -->
 <!-- <code><img title="DataGrip" alt="DataGrip" height="30" src="assets/tech-icon/datagrip.svg"></code> -->
 <!-- <code><img title="Scene Builder" alt="Scene Builder" height="30" src="assets/tech-icon/sceneBuilder.png"></code> -->
 <!-- <code><img title="JasperReports" alt="JasperReports" height="30" src="assets/tech-icon/jasper-report.png"></code> -->
