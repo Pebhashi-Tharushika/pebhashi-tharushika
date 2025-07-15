@@ -7,9 +7,9 @@
 
 I’m a passionate full-stack developer with hands-on experience in enterprise-level software development.
 
-🎓 Graduate of B.Sc (Hons) Engineering, University of Moratuwa, Sri Lanka.
+<!-- 🎓 Graduate of B.Sc (Hons) Engineering, University of Moratuwa, Sri Lanka. -->
 
-💼 Former Lecturer & Associate Software Engineer at the Institute of Software Engineering (IJSE).
+<!-- 💼 Former Lecturer & Associate Software Engineer at the Institute of Software Engineering (IJSE). -->
 
 Interested in:
 - Exploring and working with new technologies 
