@@ -59,10 +59,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="GitHub" alt="GitHub" height="30" src="assets/tech-icon/github.svg"></code>
 <code><img title="MySQL" alt="MySQL" height="30" width="30" src="assets/tech-icon/mysql.svg"></code>
 <code><img title="MongoDB" alt="MongoDB" height="30" src="assets/tech-icon/mongodb.svg"></code>
-<code><img title="DataGrip" alt="DataGrip" height="30" src="assets/tech-icon/datagrip.svg"></code>
-<code><img title="Scene Builder" alt="Scene Builder" height="30" src="assets/tech-icon/sceneBuilder.png"></code>
-<code><img title="JasperReports" alt="JasperReports" height="30" src="assets/tech-icon/jasper-report.png"></code>
-<code><img title="Cisco Packet Tracer" alt="Cisco Packet Tracer" height="30" src="assets/tech-icon/cisco-packet-tracer.png"></code>
+<code><img tittle="PostgreSQL" height="30" src="assets/tech-icon/postgresql.svg"></code>
 <code><img title="Node.js" alt="Node.js" height="30" src="assets/tech-icon/nodejs.svg"></code>
 <code><img title="Express.js" alt="Express.js" height="30" src="assets/tech-icon/expressjs.svg"></code>
 <code><img title="NPM" alt="NPM" height="30" width="30" src="assets/tech-icon/npm.svg"></code>
@@ -98,14 +95,17 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="JWT" alt="JWT" height="30" src="assets/tech-icon/jwt.svg"></code>
 <code><img title="Firebase" alt="Firebase" height="30" src="assets/tech-icon/firebase.svg"></code>
 <code><img title="GCP" alt="GCP" height="30" src="assets/tech-icon/googlecloud.svg"></code>
+<code><img title="Supabase" height="30" src="assets/tech-icon/supabase.svg"></code>
+<code><img title="Render" height="30" src="assets/tech-icon/render.svg"></code>
 <code><img title="Docker" alt="Docker" height="30" src="assets/tech-icon/docker.svg"></code>
 
-<!-- <code><img height="30" src="assets/tech-icon/rxjs.svg"></code> -->
-<!-- <code><img height="30" src="assets/tech-icon/reduxjs.svg"></code> -->
-<!-- <code><img height="30" src="assets/tech-icon/reactrouter.svg"></code> -->
+
+<!-- <code><img title="DataGrip" alt="DataGrip" height="30" src="assets/tech-icon/datagrip.svg"></code> -->
+<!-- <code><img title="Scene Builder" alt="Scene Builder" height="30" src="assets/tech-icon/sceneBuilder.png"></code> -->
+<!-- <code><img title="JasperReports" alt="JasperReports" height="30" src="assets/tech-icon/jasper-report.png"></code> -->
+<!-- <code><img title="Cisco Packet Tracer" alt="Cisco Packet Tracer" height="30" src="assets/tech-icon/cisco-packet-tracer.png"></code> -->
 <!-- <code><img height="30" src="assets/tech-icon/webpack.svg"></code> -->
 <!-- <code><img height="30" src="assets/tech-icon/vuejs.svg"></code> -->
-
 <!-- <code><img height="30" alt="spring-boot" src="https://custom-icon-badges.demolab.com/badge/spring--graphql-555555.svg?logo=spring-graphql"></code> -->
       
 
