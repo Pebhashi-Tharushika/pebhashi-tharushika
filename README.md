@@ -55,8 +55,12 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="Bootstrap" alt="Bootstrap" height="30" src="assets/tech-icon/bootstrap.png"></code>
 <code><img title="jQuery" alt="jQuery" height="30" src="assets/tech-icon/jquery.svg"></code>
 <code><img title="jQuery UI" alt="jQuery UI" height="30" src="assets/tech-icon/jquery-ui.png"></code>
-<code><img title="Git" alt="Git" height="30" src="assets/tech-icon/git.svg"></code>
-<code><img title="GitHub" alt="GitHub" height="30" src="assets/tech-icon/github.svg"></code>
+<code><img title="Angular" alt="Angular" height="30" src="assets/tech-icon/angular.svg"></code>
+<code><img title="ReactJS" alt="ReactJS" height="30" src="assets/tech-icon/reactjs.svg"></code>
+<code><img title="React Router" alt="React Router" height="30" src="assets/tech-icon/reactrouter.svg"></code>
+<code><img title="Materialize" alt="Materialize" height="30" src="assets/tech-icon/materialize.svg"></code>
+<code><img title="Tailwindcss" alt="Tailwindcss" height="30" src="assets/tech-icon/tailwindcss.svg"></code>
+<code><img title="Shadcn" alt="Shadcn" height="30" width="30" src="assets/tech-icon/shadcn.svg"></code>
 <code><img title="MySQL" alt="MySQL" height="30" width="30" src="assets/tech-icon/mysql.svg"></code>
 <code><img title="MongoDB" alt="MongoDB" height="30" src="assets/tech-icon/mongodb.svg"></code>
 <code><img tittle="PostgreSQL" height="30" src="assets/tech-icon/postgresql.svg"></code>
@@ -64,12 +68,13 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="Express.js" alt="Express.js" height="30" src="assets/tech-icon/expressjs.svg"></code>
 <code><img title="NPM" alt="NPM" height="30" width="30" src="assets/tech-icon/npm.svg"></code>
 <code><img title="PNPM" alt="PNPM" height="30" src="assets/tech-icon/pnpm.svg"></code>
-<code><img title="Ant" alt="Ant" height="30" src="assets/tech-icon/apache-ant.svg"></code>
-<code><img title="Maven" alt="Maven" height="30" src="assets/tech-icon/maven.svg"></code>
-<code><img title="Gradle" alt="Gradle" height="30" src="assets/tech-icon/gradle.svg"></code>
 <code><img title="XML" alt="XML" height="30" src="assets/tech-icon/xml.svg"></code>
 <code><img title="JSON" alt="JSON" height="30" src="assets/tech-icon/json.svg"></code>
 <code><img title="YAML" alt="YAML" height="30" src="assets/tech-icon/yaml.svg"></code>
+<code><img title="Maven" alt="Maven" height="30" src="assets/tech-icon/maven.svg"></code>
+<code><img title="Gradle" alt="Gradle" height="30" src="assets/tech-icon/gradle.svg"></code>
+<code><img title="Parcel.js" alt="Parcel.js" height="30" src="assets/tech-icon/parceljs.png"></code>
+<code><img title="Vite" alt="Vite" height="30" src="assets/tech-icon/vitejs.svg"></code>
 <code><img title="Lombok" alt="Lombok" height="30" src="assets/tech-icon/lombok.png"></code>
 <code><img title="Jakarta EE" alt="Jakarta EE" height="30" width="30" src="assets/tech-icon/jakartaEE.png"></code>
 <code><img title="Tomcat" alt="Tomcat" height="30" src="assets/tech-icon/tomcat.svg"></code>
@@ -80,23 +85,21 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <code><img title="ModelMapper" alt="ModelMapper" height="30" src="assets/tech-icon/model-mapper.png"></code>
 <code><img title="JUnit 5" alt="JUnit 5" height="30" src="assets/tech-icon/junit.svg"></code>
 <code><img title="Swagger UI" alt="Swagger UI" height="30" src="assets/tech-icon/swagger.svg"></code>
-<code><img title="Parcel.js" alt="Parcel.js" height="30" src="assets/tech-icon/parceljs.png"></code>
 <code><img title="Hibernate" alt="Hibernate" height="30" src="assets/tech-icon/hibernate.svg"></code>
-<code><img title="Jira" alt="Jira" height="30" src="assets/tech-icon/jira.svg"></code>
+<code><img title="Git" alt="Git" height="30" src="assets/tech-icon/git.svg"></code>
+<code><img title="GitHub" alt="GitHub" height="30" src="assets/tech-icon/github.svg"></code>
 <code><img title="Bitbucket" alt="Bitbucket" height="30" src="assets/tech-icon/bitbucket.svg"></code>
-<code><img title="Angular" alt="Angular" height="30" src="assets/tech-icon/angular.svg"></code>
-<code><img title="Angular Material" alt="Angular Material" height="30" src="assets/tech-icon/angularmaterial.svg"></code>
-<code><img title="ReactJS" alt="ReactJS" height="30" src="assets/tech-icon/reactjs.svg"></code>
-<code><img title="Materialize" alt="Materialize" height="30" src="assets/tech-icon/materialize.svg"></code>
-<code><img title="Tailwindcss" alt="Tailwindcss" height="30" src="assets/tech-icon/tailwindcss.svg"></code>
+<code><img title="Jira" alt="Jira" height="30" src="assets/tech-icon/jira.svg"></code>
 <code><img title="Redis" alt="Redis" height="30" src="assets/tech-icon/redis.svg"></code>
 <code><img title="RabbitMQ" alt="RabbitMQ" height="30" src="assets/tech-icon/rabbitmq.svg"></code>
 <code><img title="JWT" alt="JWT" height="30" src="assets/tech-icon/jwt.svg"></code>
 <code><img title="Clerk" alt="Clerk" height="30" src="assets/tech-icon/clerk.svg"></code>
 <code><img title="Firebase" alt="Firebase" height="30" src="assets/tech-icon/firebase.svg"></code>
-<code><img title="GCP" alt="GCP" height="30" src="assets/tech-icon/googlecloud.svg"></code>
-<code><img title="Supabase" height="30" src="assets/tech-icon/supabase.svg"></code>
+<code><img title="Vercel" alt="Vercel" height="30" src="assets/tech-icon/vercel.svg"></code>
 <code><img title="Render" height="30" src="assets/tech-icon/render.svg"></code>
+<code><img title="Supabase" height="30" src="assets/tech-icon/supabase.svg"></code>
+<code><img title="GCP" alt="GCP" height="30" src="assets/tech-icon/googlecloud.svg"></code>
+<code><img title="AWS" alt="AWS" height="30" src="assets/tech-icon/aws.svg"></code>
 <code><img title="Docker" alt="Docker" height="30" src="assets/tech-icon/docker.svg"></code>
 
 <!-- <code><img title="Emmet" alt="Emmet" height="30" src="assets/tech-icon/emmet.svg"></code> -->
@@ -105,8 +108,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 <!-- <code><img title="Scene Builder" alt="Scene Builder" height="30" src="assets/tech-icon/sceneBuilder.png"></code> -->
 <!-- <code><img title="JasperReports" alt="JasperReports" height="30" src="assets/tech-icon/jasper-report.png"></code> -->
 <!-- <code><img title="Cisco Packet Tracer" alt="Cisco Packet Tracer" height="30" src="assets/tech-icon/cisco-packet-tracer.png"></code> -->
-<!-- <code><img height="30" src="assets/tech-icon/webpack.svg"></code> -->
-<!-- <code><img height="30" src="assets/tech-icon/vuejs.svg"></code> -->
+
 <!-- <code><img height="30" alt="spring-boot" src="https://custom-icon-badges.demolab.com/badge/spring--graphql-555555.svg?logo=spring-graphql"></code> -->
       
 
